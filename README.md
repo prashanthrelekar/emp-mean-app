@@ -1,1 +1,2 @@
-# node-js-project
+# emp-mean-app
+Employee Directory App - MEAN Stack- Prashanth
